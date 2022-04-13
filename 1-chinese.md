@@ -7,7 +7,7 @@
 - [学习通官网](http://www.chaoxing.com/): 超星尔雅通识教育 - ChaoXing
 - [智慧树官网](https://www.zhihuishu.com/): 智慧树在线教育_全球大型的学分课程运营服务平台
 
-## :star:当前文件是1.md | [点击前往文件2.md](2.md) 
+## :star:当前文件是1-chinese.md | [点击前往文件2-chinese.md](2-chinese.md) 
 
 ## :star:图片（本地）如下：
 
